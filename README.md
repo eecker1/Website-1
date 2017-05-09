@@ -2,7 +2,7 @@
 
 Web project built in order to learn the basics of Html and Css 
 
-<h> About </h>
+<h1> About </h1>
 
 ---> Photograph
 
